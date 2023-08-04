@@ -26,3 +26,12 @@ Find here some redirection to project that I refactored a minimum to be used.
 "be.eloistree.unitypackagefacilitator":"https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
 "be.eloistree.generaltoolbox":"https://github.com/EloiStree/2021_10_03_EloiGeneralToolbox.git",
 ```
+
+
+## Main links on my visit card
+
+Learn about Open Macro input :
+[About](https://openmacroinput.github.io/r/about) - [Learn](https://openmacroinput.github.io/r/learn) - [API](https://openmacroinput.github.io/r/api) - [Invest](https://openmacroinput.github.io/r/invest) - [Download](https://openmacroinput.github.io/r/download)  
+
+Learn about Eloi Stree :
+[About](https://eloistree.github.io/r/about) - [Portfolio](https://eloistree.github.io/r/portfolio) - [Service](https://eloistree.github.io/r/service) - [Contact](https://eloistree.github.io/r/contact) - [Download](https://eloistree.github.io/r/download)  
