@@ -11,7 +11,9 @@ In 2023-2030, I am working to make Open Macro Input become a used software on Wi
 
 ## How you can help me explore the Lynx R1 ?
 
-- Teaching is the best way to master a topic. I am always in to teach topic 
+- Teaching is the best way to master a topic. I am always in to teach topic
+- I always open to do prototype, experiment or small application of less that 5 weeks duration.
+- I will be available of coding feature on the Lynx R1 or the Quest 3
 
 ## How you can help me develop Open Macro Input ?
 
