@@ -9,8 +9,9 @@ You can find more about me on the landing page:
 https://github.com/EloiStree  
 
 Most of my projects are open source spreads on my harddrives, GitLab, GitHub.  
-You can find links of my presence on the web here:  
-[https://github.com/EloiStree/EloiStree/linktree.md](https://github.com/EloiStree/EloiStree/linktree.md)  
+You can find links of my presence on the web here:   
+[https://github.com/EloiStree/EloiStree/blob/master/LICENSE.md](https://github.com/EloiStree/EloiStree/blob/master/LICENSE.md)
+  
 
 
 
