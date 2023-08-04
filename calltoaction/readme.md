@@ -19,7 +19,7 @@ In 2023-2030, I am working to make Open Macro Input become a used software on Wi
   - I am open to any suggestion.
 - The software was oriented recently to be able to be test on console.
   - I am looking a QA company in video game that would see the potentiel of the tool in their team.
-- As I am not a campany yet, the only way I can invest on the project is by working from it as as service
+- As I am not a campany yet, the only way I can invest on the project is by working from it as service
    - I learn a ton of small skills to be able to pull out the projet and I available if need me to teach a topic. 
 
 
