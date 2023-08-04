@@ -13,7 +13,8 @@ You can find links of my presence on the web here:
 [https://github.com/EloiStree/EloiStree/blob/master/linktree.md](https://github.com/EloiStree/EloiStree/blob/master/linktree.md)
   
 
-
+Find more about my past work:  
+- CV: https://github.com/EloiStree/EloiStree/blob/master/CV/CV.md  
 
 
 
