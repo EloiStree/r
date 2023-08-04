@@ -10,7 +10,7 @@ https://github.com/EloiStree
 
 Most of my projects are open source spreads on my harddrives, GitLab, GitHub.  
 You can find links of my presence on the web here:  
-[https://github.com/EloiStree/EloiStree/blob/master/linktree.md](https://github.com/EloiStree/EloiStree/blob/master/linktree.md)  
+[https://github.com/EloiStree/EloiStree/linktree.md](https://github.com/EloiStree/EloiStree/linktree.md)  
 
 
 
