@@ -1,6 +1,8 @@
 # (R) rediction
 
-Find on this repository some redirection links. 
+Dynamic link have been failing me overtimes.
+So the git "R" repository is a alternative to dynamic link.
+
 
 ## Main links on my visit card
 Learn about Open Macro input :
