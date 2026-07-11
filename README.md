@@ -10,3 +10,5 @@ Learn about Open Macro input :
 Learn about Eloi Stree :
 [About](https://eloistree.github.io/r/about) - [Portfolio](https://eloistree.github.io/r/portfolio) - [Service](https://eloistree.github.io/r/service) - [Contact](https://eloistree.github.io/r/contact) - [Download](https://eloistree.github.io/r/download)  
 
+Discord: [https://eloistree.github.io/r/discord](https://eloistree.github.io/r/discord)
+
