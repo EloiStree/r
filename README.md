@@ -12,3 +12,4 @@ Learn about Eloi Stree :
 
 Discord: [https://eloistree.github.io/r/discord](https://eloistree.github.io/r/discord)
 
+Help Me on Steam Frame: https://eloistree.github.io/r/help_me
